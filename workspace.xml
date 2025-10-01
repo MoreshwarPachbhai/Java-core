@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="862a022e-25b9-4730-ac60-8cf32f6db40f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="33FBEkKvi1w3uV8yHACs1fjo5mR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Diamond_star.executor": "Run",
+    "Application.FibonacciSeriesRecursive.executor": "Run",
+    "Application.Fibonacci_series.executor": "Run",
+    "Application.Fibonacci_seriesWith_Recursion.executor": "Run",
+    "Application.ForLoop.executor": "Run",
+    "Application.For_Loop.executor": "Run",
+    "Application.If_Else.executor": "Run",
+    "Application.Inverted_star_pattern.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Pyramid_stars.executor": "Run",
+    "Application.Right_angle_number_triangle.executor": "Run",
+    "Application.Star_pattern.executor": "Run",
+    "Application.Switch_Statement.executor": "Run",
+    "Application.Ternary_operator.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestCase.executor": "Run",
+    "Application.test.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/mores/IdeaProjects/Java Core/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="862a022e-25b9-4730-ac60-8cf32f6db40f" name="Changes" comment="" />
+      <created>1758902830948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758902830948</updated>
+    </task>
+    <servers />
+  </component>
+</project>
